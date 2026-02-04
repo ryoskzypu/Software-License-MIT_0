@@ -1,3 +1,6 @@
+[![CI](https://github.com/ryoskzypu/Software-License-MIT_0/actions/workflows/ci.yml/badge.svg?branch=main&event=push)](https://github.com/ryoskzypu/Software-License-MIT_0/actions/workflows/ci.yml)
+[![Coverage Status](https://coveralls.io/repos/github/ryoskzypu/Software-License-MIT_0/badge.svg?branch=main)](https://coveralls.io/github/ryoskzypu/Software-License-MIT_0?branch=main)
+
 # Software::License::MIT_0
 
 This module is a [Software::License](https://metacpan.org/pod/Software::License)
