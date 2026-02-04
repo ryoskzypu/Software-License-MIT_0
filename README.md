@@ -47,6 +47,6 @@ You can also look for information at:
 
 ## Copyright
 
-Copyright © 2026 ryoskzypu
+Copyright Â© 2026 ryoskzypu
 
 MIT-0 License. See LICENSE for details.
