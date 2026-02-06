@@ -23,7 +23,18 @@ my %WriteMakefileArgs = (
     },
     META_MERGE => {
         'meta-spec' => { version => 2 },
-        prereqs     => {
+        no_index    => {
+            directory => [
+                qw<
+                    eg
+                    examples
+                    share
+                    t
+                    xt
+                >
+            ],
+        },
+        prereqs => {
             develop => {
                 recommends => {
                     'App::CPANTS::Lint'        => '0',
