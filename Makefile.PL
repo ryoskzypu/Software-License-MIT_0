@@ -19,7 +19,7 @@ my %WriteMakefileArgs = (
         'Test2::V1' => '0',
     },
     PREREQ_PM => {
-        'Software::License' => '0',
+        'Software::License' => '0.104007',
     },
     META_MERGE => {
         'meta-spec' => { version => 2 },
@@ -39,6 +39,7 @@ my %WriteMakefileArgs = (
                     'App::CPANTS::Lint' => '0',
                     'Data::Printer'     => '0',
                     'Devel::Cover'      => '0',
+                    'Devel::NYTProf'    => '0',
                     'Perl::Critic'      => '0',
                     'Perl::Tidy'        => '0',
                 },
